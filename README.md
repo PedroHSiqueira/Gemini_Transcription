@@ -1,4 +1,4 @@
-# Ollama Chatbot
+# Gemini Transcription
 
 ## Instruções
 
